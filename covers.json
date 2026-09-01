@@ -1,0 +1,18 @@
+{
+ "budget-set": [
+  "https://redsky0824-cpu.github.io/ruledbypaper/images/budget-set/cover-1.png",
+  "https://redsky0824-cpu.github.io/ruledbypaper/images/budget-set/cover-2.png"
+ ],
+ "bundle": [
+  "https://redsky0824-cpu.github.io/ruledbypaper/images/bundle/cover-1.png",
+  "https://redsky0824-cpu.github.io/ruledbypaper/images/bundle/cover-2.png"
+ ],
+ "free-glance": [
+  "https://redsky0824-cpu.github.io/ruledbypaper/images/free-glance/cover-1.png"
+ ],
+ "monthly-calendar": [
+  "https://redsky0824-cpu.github.io/ruledbypaper/images/monthly-calendar/cover-1.png",
+  "https://redsky0824-cpu.github.io/ruledbypaper/images/monthly-calendar/cover-2.png",
+  "https://redsky0824-cpu.github.io/ruledbypaper/images/monthly-calendar/cover-3.png"
+ ]
+}

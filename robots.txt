@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://redsky0824-cpu.github.io/ruledbypaper/sitemap.xml
